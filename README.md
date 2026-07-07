@@ -6,6 +6,12 @@
 
 ---
 
+## Téléchargement rapide
+
+Pas envie de compiler ? Une version standalone (.exe) prête à jouer est disponible ici : [Télécharger La Fosse v1.0.0](https://lnksnp.ch/f/crMMQ)
+
+---
+
 ## Fonctionnalités
 
 - **33 bêtes** issues de mythologies du monde entier (Japon, Grèce, Scandinavie, Afrique, etc.), réparties en 8 types : Feu, Eau, Nature, Foudre, Terre, Vent, Ombre, Céleste.
