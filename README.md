@@ -8,7 +8,7 @@
 
 ## Téléchargement rapide
 
-Pas envie de compiler ? Une version standalone (.exe) prête à jouer est disponible ici : [Télécharger La Fosse v1.0.0](https://lnksnp.ch/f/crMMQ)
+Pas envie de compiler ? Une version standalone (.exe) prête à jouer est disponible ici : [Télécharger La Fosse (dernière version)](https://github.com/D3m0nZOnFire/la-fosse/releases/latest) (fichier `.exe` dans les *Assets* de la release)
 
 ---
 
