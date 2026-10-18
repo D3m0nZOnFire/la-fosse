@@ -6,6 +6,8 @@
 
 **La Fosse** est un jeu de combat en mode texte (console Windows) développé en C++. Le joueur incarne un dresseur de bêtes mythologiques qui affronte des vagues ennemies de plus en plus puissantes dans une arène sans fin. L'objectif est de survivre le plus longtemps possible en recrutant de nouvelles bêtes après chaque combat.
 
+![Écran de combat de La Fosse](docs/combat.png)
+
 ---
 
 ## Téléchargement rapide

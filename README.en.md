@@ -8,6 +8,8 @@
 
 The game itself is in French.
 
+![La Fosse combat screen](docs/combat.png)
+
 ---
 
 ## Quick download
