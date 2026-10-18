@@ -1,5 +1,7 @@
 # La Fosse - Ivo Pereira Dantas
 
+**Français** · [English](README.en.md)
+
 ## Description
 
 **La Fosse** est un jeu de combat en mode texte (console Windows) développé en C++. Le joueur incarne un dresseur de bêtes mythologiques qui affronte des vagues ennemies de plus en plus puissantes dans une arène sans fin. L'objectif est de survivre le plus longtemps possible en recrutant de nouvelles bêtes après chaque combat.
@@ -28,7 +30,26 @@ Pas envie de compiler ? Une version standalone (.exe) prête à jouer est dispon
 
 ---
 
+## Compiler depuis les sources
+
+Le jeu tourne uniquement sous Windows (console, `conio.h`, `windows.h`).
+
+1. Installer Visual Studio 2026 avec la charge de travail **Développement Desktop en C++** (toolset v145).
+2. Cloner le dépôt :
+   ```sh
+   git clone https://github.com/D3m0nZOnFire/la-fosse.git
+   ```
+3. Ouvrir `La-Fosse/Projet-Fil-Rouge-Libre.slnx`, choisir **Release | x64**, puis **Générer → Générer la solution** (Ctrl+Maj+B).
+4. Lancer avec **Ctrl+F5**, ou l'exécutable dans `La-Fosse/x64/Release/`.
+
+---
+
 ## Exigences C++ satisfaites
+
+Projet réalisé pour un cours de C++ à la HE-Arc. Voici où chaque exigence du cours est remplie.
+
+<details>
+<summary>Voir le tableau des exigences</summary>
 
 | Exigence | Implémentation |
 |---|---|
@@ -39,6 +60,8 @@ Pas envie de compiler ? Une version standalone (.exe) prête à jouer est dispon
 | C++ moderne et STL | `unique_ptr`, `vector`, `sort` + lambda, designated initializers (C++20), singletons via static local |
 | Fichier log | `Logger` singleton écrit dans `lafosse.log` avec horodatage et niveaux `[INFO]` / `[WARNING]` / `[ERROR]` |
 | Programme fonctionnel | Jeu complet : menu, combat, recrutement, scaling, classement CSV, bestiaire, options |
+
+</details>
 
 ---
 
